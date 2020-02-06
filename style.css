@@ -1,0 +1,44 @@
+.small {
+	font-size: 13px;
+	color: grey;
+}
+
+.container {
+	margin: 20px;
+	width: 400px;
+}
+
+table {
+	margin: 0;
+	padding: 0;
+	border-spacing: 10px;
+}
+
+body {
+	font-family: helvetica, sans-serif;	
+	
+}
+ /*table */
+
+td {
+	vertical-align: top;
+}
+
+tr {
+	margin-right: 20px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.appe {
+	margin-left: 10px;
+	padding-left: 80px;
+}
+ul {
+	list-style-type: none;
+	margin: 10px;
+	padding: 0; 
+}
+
